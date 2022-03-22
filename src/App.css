@@ -1,0 +1,15 @@
+.App {
+  min-width: 400px;
+  max-width: 900px;
+  margin: 40px auto;
+  text-align: left;
+}
+
+.get {
+  display: flex;
+  margin: 20px 0;
+}
+
+.data, .error, .loading {
+  margin-left: 5px;
+}
