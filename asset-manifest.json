@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-hooks-use_json_fetch/static/css/main.7fd32630.css",
+    "main.js": "/ra-hooks-use_json_fetch/static/js/main.3b8abadd.js",
+    "static/js/787.04097c43.chunk.js": "/ra-hooks-use_json_fetch/static/js/787.04097c43.chunk.js",
+    "index.html": "/ra-hooks-use_json_fetch/index.html",
+    "main.7fd32630.css.map": "/ra-hooks-use_json_fetch/static/css/main.7fd32630.css.map",
+    "main.3b8abadd.js.map": "/ra-hooks-use_json_fetch/static/js/main.3b8abadd.js.map",
+    "787.04097c43.chunk.js.map": "/ra-hooks-use_json_fetch/static/js/787.04097c43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd32630.css",
+    "static/js/main.3b8abadd.js"
+  ]
+}
